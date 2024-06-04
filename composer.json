@@ -1,0 +1,16 @@
+{
+    "name": "myvendor/vnacargo",
+    "description": "A project for handling VNA cargo email submissions.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TranQuangHung"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

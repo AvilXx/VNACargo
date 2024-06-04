@@ -1,0 +1,22 @@
+# Created by https://www.toptal.com/developers/gitignore/api/web,dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=web,dotenv
+
+### dotenv ###
+.env
+
+### Web ###
+*.asp
+*.cer
+*.csr
+*.css
+*.htm
+*.html
+*.js
+*.jsp
+*.php
+*.rss
+*.wasm
+*.wat
+*.xhtml
+
+# End of https://www.toptal.com/developers/gitignore/api/web,dotenv
